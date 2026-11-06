@@ -7,7 +7,7 @@ A responsive React storefront for girly essentials and cozy decor. It includes p
 Install dependencies and start the development server:
 
 ```bash
-npm install
+npm ci
 npm run dev
 ```
 
