@@ -1,0 +1,1 @@
+Brand assets used by the app live here. Starter catalog photos and sample video are remote demo media; products added in the owner dashboard use local files saved in this browser.
